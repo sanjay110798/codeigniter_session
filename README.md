@@ -31,5 +31,5 @@ For Server
 
 # Set Default Route 
 
-<!-- $route['default_controller'] = 'welcome'; // Change this to your default controller -->
+// $route['default_controller'] = 'welcome'; // Change this to your default controller
 $route['default_controller'] = 'home';
