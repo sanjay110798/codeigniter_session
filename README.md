@@ -3,7 +3,10 @@
 # Downloading CodeIgniter
 https://codeload.github.com/bcit-ci/CodeIgniter/zip/3.1.13
 
-# Upload .htaccess file in application folder
+# Upload .htaccess file in Main Folder
+
+your_codeigniter_folder_name/.htaccess
+
 
 # Update Base url in Config file
 /application/config/config.php
