@@ -11,7 +11,7 @@ your_codeigniter_folder_name/.htaccess
 # Update Base url in Config file
 /application/config/config.php
 
-$config['base_url'] = 'http://localhost/your codeigniter folder name/';
+$config['base_url'] = 'http://localhost/your_codeigniter_folder_name/';
 
 # Remove Index.php
 $config['index_page'] = '';
