@@ -18,18 +18,25 @@ $config['index_page'] = '';
 For Localhost
 ==========================
 'hostname' => 'localhost',
+
 'username' => 'root',
+
 'password' => '',
+
 'database' => 'youre database name',
 
 For Server
 ============================
 'hostname' => 'localhost',
+
 'username' => 'Mysql User name',
+
 'password' => 'Mysql User password',
+
 'database' => 'Database name',
 
 # Set Default Route 
 
 // $route['default_controller'] = 'welcome'; // Change this to your default controller
+
 $route['default_controller'] = 'home';
