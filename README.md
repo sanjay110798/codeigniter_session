@@ -40,3 +40,7 @@ For Server
 // $route['default_controller'] = 'welcome'; // Change this to your default controller
 
 $route['default_controller'] = 'home';
+
+When enter http://localhost/your codeigniter folder name/ 
+
+then call index function in Home Controller
